@@ -1,0 +1,764 @@
+Scan finished at Wed Feb 22 10:07:20 +0000 2012.
+
+Checking project for errors...
+
+Potentially unused graphics detected:
+Pictures/013-Blues01
+Pictures/014-Reds01
+Pictures/015-Greens01
+Pictures/Anim715302
+Pictures/Back2
+Pictures/battle_status
+Pictures/Enterbrain Logo
+Pictures/fond_save
+
+Pictures/Kaswan-room-back
+Pictures/Kaswan
+Pictures/Malsa
+Pictures/Odned
+Pictures/pict120039
+Pictures/pict120160
+Pictures/pict120277
+Pictures/pict120394
+Pictures/pict120511
+Pictures/pict120626
+Pictures/pict120756
+Pictures/pict123408
+Pictures/pict192571
+Pictures/pict192695
+Pictures/r
+Pictures/Title-EG Logo
+
+Characters/106
+Characters/147
+Characters/200-Support08
+Characters/23
+Characters/78
+Characters/Adv (1)
+Characters/Adv (10)
+Characters/Adv (11)
+Characters/Adv (12)
+Characters/Adv (13)
+Characters/Adv (14)
+Characters/Adv (15)
+Characters/Adv (16)
+Characters/Adv (17)
+Characters/Adv (18)
+Characters/Adv (19)
+Characters/Adv (2)
+Characters/Adv (20)
+Characters/Adv (21)
+Characters/Adv (22)
+Characters/Adv (23)
+Characters/Adv (24)
+Characters/Adv (25)
+Characters/Adv (26)
+Characters/Adv (3)
+Characters/Adv (4)
+Characters/Adv (5)
+Characters/Adv (6)
+Characters/Adv (7)
+Characters/Adv (8)
+Characters/Adv (9)
+Characters/Adv-g (1)
+Characters/Adv-g (10)
+Characters/Adv-g (11)
+Characters/Adv-g (12)
+Characters/Adv-g (13)
+Characters/Adv-g (14)
+Characters/Adv-g (15)
+Characters/Adv-g (16)
+Characters/Adv-g (17)
+Characters/Adv-g (18)
+Characters/Adv-g (19)
+Characters/Adv-g (2)
+Characters/Adv-g (20)
+Characters/Adv-g (21)
+Characters/Adv-g (22)
+Characters/Adv-g (23)
+Characters/Adv-g (24)
+Characters/Adv-g (25)
+Characters/Adv-g (26)
+Characters/Adv-g (27)
+Characters/Adv-g (28)
+Characters/Adv-g (29)
+Characters/Adv-g (3)
+Characters/Adv-g (4)
+Characters/Adv-g (5)
+Characters/Adv-g (6)
+Characters/Adv-g (7)
+Characters/Adv-g (8)
+Characters/Adv-g (9)
+Characters/Adv-g
+Characters/Adv
+Characters/alchemy
+Characters/chairstemp
+Characters/char (12)
+Characters/char (14)
+Characters/char (16)
+Characters/char (3)
+Characters/char
+Characters/char_wf_02
+Characters/Chien
+Characters/Containers1
+Characters/Containers2
+Characters/duralumin-box
+Characters/ErkCityGate
+Characters/event_01_by_Gamerage
+Characters/event_02_by_Gamerage
+Characters/excalibur4vu
+
+Characters/generate
+Characters/GrandPaintings
+Characters/Guard Army
+
+Characters/Jupiterwoutshadow
+Characters/kn_kernel
+Characters/kn_keypad
+Characters/KN_SAT2
+Characters/KN_SAT4
+Characters/lazer
+
+Characters/N (1)
+Characters/N (10)
+Characters/N (11)
+Characters/N (12)
+Characters/N (13)
+Characters/N (14)
+Characters/N (15)
+Characters/N (16)
+Characters/N (17)
+Characters/N (18)
+Characters/N (19)
+Characters/N (2)
+Characters/N (20)
+Characters/N (21)
+Characters/N (22)
+Characters/N (23)
+Characters/N (24)
+Characters/N (25)
+Characters/N (26)
+Characters/N (27)
+Characters/N (3)
+Characters/N (4)
+Characters/N (5)
+Characters/N (6)
+Characters/N (7)
+Characters/N (8)
+Characters/N (9)
+Characters/N-g (1)
+Characters/N-g (10)
+Characters/N-g (11)
+Characters/N-g (12)
+Characters/N-g (13)
+Characters/N-g (14)
+Characters/N-g (15)
+Characters/N-g (16)
+Characters/N-g (17)
+Characters/N-g (18)
+Characters/N-g (19)
+Characters/N-g (2)
+Characters/N-g (20)
+Characters/N-g (21)
+Characters/N-g (22)
+Characters/N-g (23)
+Characters/N-g (24)
+Characters/N-g (25)
+Characters/N-g (26)
+Characters/N-g (27)
+Characters/N-g (3)
+Characters/N-g (4)
+Characters/N-g (5)
+Characters/N-g (6)
+Characters/N-g (7)
+Characters/N-g (8)
+Characters/N-g (9)
+
+Characters/Voyau-g
+Characters/Voyau
+Characters/X-R (1)
+Characters/X-R-g (1)
+Characters/Z-Aglozim-g
+Characters/Z-Aglozim
+Characters/Z-Amzwar-g
+Characters/Z-Amzwar
+Characters/Z-Aysad-g
+Characters/Z-Aysad
+Characters/Z-Iskad-g
+Characters/Z-Iskad
+Characters/Z-Issin-g
+Characters/Z-Issin
+Characters/Z-Mulato-g
+Characters/Z-Mulato
+Characters/Z-Samos-g
+Characters/Z-Samos
+Characters/Z-Sanani-g
+Characters/Z-Sanani
+Characters/Z-Sidas-g
+Characters/Z-Sidas
+Characters/Z-Wahish-g
+Characters/Z-Wahish
+Gameovers/Thumbs
+Autotiles/Carpet02-002
+Autotiles/plastic01-002
+Autotiles/Roadxx
+Autotiles/shadow-greensd
+Autotiles/shadow-grgfffgfgsd
+Autotiles/Thumbs
+Autotiles/Wall01-002
+Autotiles/Wall02-002
+Icons/005-Weapon05
+Icons/006-Weapon06
+Icons/010-Head01
+Icons/011-Head02
+Icons/012-Head03
+Icons/013-Body01
+Icons/014-Body02
+Icons/015-Body03
+Icons/017-Accessory02
+Icons/018-Accessory03
+Icons/019-Accessory04
+Icons/020-Accessory05
+Icons/025-Herb01
+Icons/026-Herb02
+Icons/027-Herb03
+Icons/028-Herb04
+Icons/029-Key01
+Icons/030-Key02
+Icons/031-Key03
+Icons/032-Item01
+Icons/033-Item02
+Icons/034-Item03
+Icons/035-Item04
+Icons/037-Item06
+Icons/038-Item07
+Icons/039-Item08
+Icons/040-Item09
+Icons/041-Item10
+Icons/042-Item11
+Icons/044-Skill01
+Icons/045-Skill02
+Icons/046-Skill03
+Icons/047-Skill04
+Icons/049-Skill06
+Icons/050-Skill07
+Icons/Algue 1
+Icons/Arc 1
+Icons/Arme 1
+Icons/Arme 2
+Icons/Arme 3
+Icons/Arme 4
+Icons/Armure 1
+Icons/Armure 2
+Icons/Armure 3
+Icons/Armure 4
+Icons/Boomerang 1
+Icons/Bottes 1
+Icons/Bottes 2
+Icons/Boucle 1
+Icons/Bouclier 1
+Icons/Bouclier 2
+Icons/Cadeau 1
+Icons/Cadeau 2
+Icons/Cape 1
+Icons/Cape 2
+Icons/Cape 3
+Icons/Cape 4
+Icons/Casque 1
+Icons/Ceinture 1
+Icons/Ceinture 2
+Icons/Chapeau 1
+Icons/Chapeau 2
+Icons/Croix 1
+Icons/Fusil 1
+Icons/Gants 1
+Icons/Gants 2
+Icons/Joyaux 1
+Icons/Joyaux 10
+Icons/Joyaux 11
+Icons/Joyaux 12
+Icons/Joyaux 3
+Icons/Joyaux 4
+Icons/Joyaux 5
+Icons/Joyaux 6
+Icons/Joyaux 7
+Icons/Joyaux 8
+Icons/Joyaux 9
+Icons/Joyaux7
+Icons/Lance 1
+Icons/Lance-Roche 1
+Icons/Lanterne 1
+Icons/Lettre 2
+Icons/Lettre 3
+Icons/Livre 1
+Icons/Main
+Icons/Mirroir 1
+Icons/night
+Icons/panneau
+Icons/Parchemin 1
+Icons/Parchemin 2
+Icons/Plume 1
+Icons/Plume 2
+Icons/portionxxEX
+Icons/Pot 2
+Icons/Pot 3
+Icons/Pot 4
+Icons/Pot 5
+Icons/Pot 6
+Icons/Pot 7
+Icons/Pot 8
+Icons/Sable 1
+Icons/Sablier 1
+Icons/Sac 1
+Icons/Sac 2
+Icons/sd-004
+Icons/skill_chill02
+Icons/skill_chill03
+Icons/skill_chillxx
+Icons/skill_darkxx2
+Icons/skill_darkxx3
+Icons/skill_fire01
+Icons/skill_fire02
+Icons/skill_fire03
+Icons/skill_fire05
+Icons/skill_fire06
+Icons/skill_gaia00
+Icons/skill_lod
+Icons/skill_spear
+Icons/skill_sword
+Icons/skill_thunder02
+Icons/skill_thunderxx
+Icons/skill_water02
+Icons/skill_water04
+Icons/skill_water05
+Icons/Squelette
+
+Animations/2003742209
+Animations/2003744907
+Animations/anim680699
+Animations/animation_09_33-62bbb9
+Animations/dbza747276
+Animations/dragon-62bb6a
+Animations/efff747762
+Animations/EFFT748232
+Animations/ENEM748501
+Animations/Fira749357
+Animations/fireap1
+Animations/fire_01-62bbd1
+Animations/Flar749954
+Animations/gallery_1425_12_12520
+Animations/gallery_1425_12_128320
+Animations/gallery_1425_12_13148
+Animations/gallery_1425_12_14103
+Animations/gallery_1425_12_14132
+Animations/gallery_1425_12_154899
+Animations/gallery_1425_12_15556
+Animations/gallery_1425_12_15841
+Animations/gallery_1425_12_17641
+Animations/gallery_1425_12_29024
+Animations/gallery_1425_12_388142
+Animations/gallery_1425_12_45586
+Animations/gallery_1425_12_6179
+Animations/gallery_3825_12_53058
+Animations/Glac750324
+Animations/los-symbols
+Animations/lunarbow-62bbdf
+Animations/mutnat090
+Animations/NAIL675004
+Animations/RISE676047
+Animations/Simo676620
+Animations/Thumbs
+Animations/Wate678034
+Titles/Continue
+Titles/Exit
+Titles/Fond0
+Titles/Fond1
+Titles/Fond10
+Titles/Fond11
+Titles/Fond12
+Titles/Fond13
+Titles/Fond14
+Titles/Fond15
+Titles/Fond16
+Titles/Fond17
+Titles/Fond18
+Titles/Fond19
+Titles/Fond2
+Titles/Fond20
+Titles/Fond21
+Titles/Fond22
+Titles/Fond23
+Titles/Fond24
+Titles/Fond25
+Titles/Fond3
+Titles/Fond4
+Titles/Fond5
+Titles/Fond6
+Titles/Fond7
+Titles/Fond8
+Titles/Fond9
+Titles/NewGame
+Battlers/Adv-g (1)
+Battlers/N-g (16)
+Battlers/N-g (20)
+Windowskins/001-Blue01-used
+Windowskins/CPSkin
+Windowskins/winskin01
+Battlebacks/14042010154732
+Battlebacks/Back-001
+Battlebacks/Back-002
+Battlebacks/Thumbs
+Panoramas/Traidensd
+
+Missing graphics detected:
+Tilesets/001-Grassland01
+Tilesets/002-Woods01
+Tilesets/003-Forest01
+Tilesets/004-Mountain01
+Tilesets/005-Beach01
+Tilesets/006-Desert01
+Tilesets/007-Swamp01
+Tilesets/008-Snowfield01
+Tilesets/009-CastleTown01
+Tilesets/010-CastleTown02
+Tilesets/011-PortTown01
+Tilesets/012-PortTown02
+Tilesets/013-PostTown01
+Tilesets/014-PostTown02
+Tilesets/015-ForestTown01
+Tilesets/016-ForestTown02
+Tilesets/017-MineTown01
+Tilesets/018-MineTown02
+Tilesets/019-DesertTown01
+Tilesets/020-DesertTown02
+Tilesets/021-SnowTown01
+Tilesets/022-SnowTown02
+Tilesets/023-FarmVillage01
+Tilesets/024-FarmVillage02
+Tilesets/025-Castle01
+Tilesets/026-Castle02
+Tilesets/027-Castle03
+Tilesets/028-Church01
+Tilesets/029-Church02
+Tilesets/030-Ship01
+Tilesets/031-Ship02
+Tilesets/032-Heaven01
+Tilesets/033-Heaven02
+Tilesets/034-Bridge01
+Tilesets/035-Ruins01
+Tilesets/036-Shop01
+Tilesets/037-Fort01
+Tilesets/038-Fort02
+Tilesets/039-Tower01
+Tilesets/040-Tower02
+Tilesets/041-EvilCastle01
+Tilesets/042-EvilCastle02
+Tilesets/043-Cave01
+Tilesets/044-Cave02
+Tilesets/045-Cave03
+Tilesets/046-Cave04
+Tilesets/047-Mine01
+Tilesets/048-Sewer01
+Tilesets/049-InnerBody01
+Tilesets/050-DarkSpace01
+Characters/110-Civilian10
+Characters/151-Animal01
+Characters/153-Animal03
+Characters/163-Small05
+Characters/196-Support04
+Characters/Héro
+Characters/Père
+Fogs/005-Sandstorm01
+Fogs/defocus
+Icons/Vêtements
+Animations/002-Action02
+Animations/003-Attack01
+Animations/004-Attack02
+Animations/005-Attack03
+Animations/006-Weapon01
+Animations/007-Weapon02
+Animations/008-Weapon03
+Animations/009-Weapon04
+Animations/017-Thunder01
+Animations/020-Wind01
+Animations/021-Light01
+Animations/023-Burst01
+Animations/025-Support02
+Animations/026-Support03
+Animations/028-State01
+Animations/029-Emotion01
+Animations/Kas-
+Battlers/066-Beast04
+Transitions/003-Blind03
+Transitions/007-Line01
+Battlebacks/001-Grassland01
+Battlebacks/002-Woods01
+Battlebacks/003-Forest01
+Battlebacks/004-Mountain01
+Battlebacks/005-Beach01
+Battlebacks/006-Desert01
+Battlebacks/007-Swamp01
+Battlebacks/008-Snowfield01
+Battlebacks/009-CastleTown01
+Battlebacks/010-CastleTown02
+Battlebacks/011-PortTown01
+Battlebacks/012-PortTown02
+Battlebacks/013-PostTown01
+Battlebacks/014-PostTown02
+Battlebacks/015-ForestTown01
+Battlebacks/016-ForestTown02
+Battlebacks/017-MineTown01
+Battlebacks/018-MineTown02
+Battlebacks/019-DesertTown01
+Battlebacks/020-DesertTown02
+Battlebacks/021-SnowTown01
+Battlebacks/022-SnowTown02
+Battlebacks/023-FarmVillage01
+Battlebacks/024-FarmVillage02
+Battlebacks/025-Castle01
+Battlebacks/026-Castle02
+Battlebacks/027-Castle03
+Battlebacks/028-Church01
+Battlebacks/029-Church02
+Battlebacks/030-Ship01
+Battlebacks/031-Ship02
+Battlebacks/032-Heaven01
+Battlebacks/033-Heaven02
+Battlebacks/034-Bridge01
+Battlebacks/035-Ruins01
+Battlebacks/036-Shop01
+Battlebacks/037-Fort01
+Battlebacks/038-Fort02
+Battlebacks/039-Tower01
+Battlebacks/040-Tower02
+Battlebacks/041-EvilCastle01
+Battlebacks/042-EvilCastle02
+Battlebacks/043-Cave01
+Battlebacks/044-Cave02
+Battlebacks/045-Cave03
+Battlebacks/046-Cave04
+Battlebacks/047-Mine01
+Battlebacks/048-Sewer01
+Battlebacks/049-InnerBody01
+Battlebacks/050-DarkSpace01
+Panoramas/001-Sky01
+Panoramas/003-StarlitSky01
+Panoramas/006-Mountains01
+
+Potentially unused audio detected:
+ME/final Win
+ME/Trap! GameOver
+BGS/Stad Cheer-central Exe
+SE/Becareful
+SE/giddylaugh
+SE/laughingman2
+SE/lion
+SE/lion2
+SE/lionscream
+SE/manwah
+SE/niceday
+SE/ohhh
+SE/See-ya
+SE/shockperson
+SE/yawn
+BGM/Attack
+BGM/Bonding
+BGM/Comeback
+BGM/Counter Attack
+BGM/Counterattack
+BGM/Desperate Situation
+BGM/Dimension
+BGM/Duel Nes
+BGM/Duel of Friendship
+BGM/Duel Virtual
+BGM/Duelist
+BGM/Exciting Duel
+BGM/Fervent Duel
+BGM/Fierce Attack
+BGM/Final
+BGM/Last Duel
+BGM/Losing Dog
+BGM/Terror
+BGM/Testing Duel
+BGM/Trap
+BGM/Turn End
+BGM/Yome
+
+Missing audio detected:
+ME/016-Shock01
+BGS/004-Wind04
+BGS/007-Rain03
+BGS/015-Quake01
+BGS/018-Darkness01
+BGS/Anticipating The Duel
+SE/001-System01
+SE/006-System06
+SE/008-System08
+SE/009-System09
+SE/013-Move01
+SE/015-Jump01
+SE/016-Jump02
+SE/020-Teleport03
+SE/032-Switch01
+SE/033-Switch02
+SE/034-Switch03
+SE/035-Switch04
+SE/037-Switch06
+SE/038-Switch07
+SE/039-Switch08
+SE/046-Book01
+SE/047-Book02
+SE/050-Explosion03
+SE/051-Explosion04
+SE/054-Cannon03
+SE/055-Right01
+SE/056-Right02
+SE/057-Wrong01
+SE/058-Wrong02
+SE/060-Cheer01
+SE/061-Thunderclap01
+SE/062-Swing01
+SE/064-Swing03
+SE/065-Swing04
+SE/066-Animal01
+SE/086-Action01
+SE/087-Action02
+SE/088-Action03
+SE/089-Attack01
+SE/092-Attack04
+SE/093-Attack05
+SE/094-Attack06
+SE/098-Attack10
+SE/099-Attack11
+SE/100-Attack12
+SE/101-Attack13
+SE/102-Attack14
+SE/103-Attack15
+SE/104-Attack16
+SE/105-Heal01
+SE/106-Heal02
+SE/107-Heal03
+SE/108-Heal04
+SE/109-Heal05
+SE/110-Heal06
+SE/111-Heal07
+SE/112-Heal08
+SE/113-Remedy01
+SE/114-Remedy02
+SE/115-Raise01
+SE/116-Raise02
+SE/117-Fire01
+SE/118-Fire02
+SE/119-Fire03
+SE/120-Ice01
+SE/121-Ice02
+SE/122-Ice03
+SE/123-Thunder01
+SE/124-Thunder02
+SE/125-Thunder03
+SE/126-Water01
+SE/127-Water02
+SE/128-Water03
+SE/129-Earth01
+SE/130-Earth02
+SE/131-Earth03
+SE/132-Wind01
+SE/133-Wind02
+SE/134-Wind03
+SE/135-Light01
+SE/136-Light02
+SE/137-Light03
+SE/138-Darkness01
+SE/139-Darkness02
+SE/140-Darkness03
+SE/141-Burst01
+SE/142-Burst02
+SE/143-Support01
+SE/144-Support02
+SE/146-Support04
+SE/147-Support05
+SE/148-Support06
+SE/149-Support07
+SE/150-Support08
+SE/151-Support09
+SE/152-Support10
+SE/153-Support11
+SE/154-Support12
+SE/155-Support13
+SE/156-Support14
+SE/157-Skill01
+SE/158-Skill02
+SE/159-Skill03
+SE/160-Skill04
+SE/161-Skill05
+SE/162-Skill06
+SE/163-Skill07
+SE/164-Skill08
+SE/165-Skill09
+SE/166-Skill10
+SE/167-Skill11
+SE/168-Skill12
+SE/169-Skill13
+SE/170-Skill14
+SE/171-Skill15
+SE/172-Skill16
+SE/173-Skill17
+SE/174-Skill18
+SE/175-Skill19
+SE/176-Skill20
+SE/177-Skill21
+SE/178-Skill22
+SE/179-Skill23
+SE/180-Skill24
+BGM/First Battle Training
+
+Below is temporary until I actually make it examine the data references:
+Tilesets referenced:
+51, 52, 53, 54, 55, 56, 58
+Maps referenced:
+1, 2, 3, 5, 6, 8, 9, 10, 11, 13, 15, 18
+Armors referenced:
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33
+Items referenced:
+32, 34, 35, 37, 38, 39, 40
+Elements referenced:
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14
+Troops referenced:
+2, 3, 4, 5, 6, 7
+Weapons referenced:
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33
+Animations referenced:
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 102, 103, 104
+States referenced:
+2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
+Enemies referenced:
+1, 2, 4, 34, 37, 39, 68, 69, 70
+Skills referenced:
+1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81
+CommonEvents referenced:
+8, 9, 10, 11, 12, 13
+Classes referenced:
+1, 2, 3
+Actors referenced:
+1, 2, 3
+
+Corrupt or non-marshaled data detected:
+Map001.rxdata
+Map002.rxdata
+Map003.rxdata
+Map004.rxdata
+Map005.rxdata
+Map006.rxdata
+Map007.rxdata
+Map008.rxdata
+Map009.rxdata
+Map010.rxdata
+Map011.rxdata
+Map012.rxdata
+Map013.rxdata
+Map014.rxdata
+Map015.rxdata
+Map016.rxdata
+Map017.rxdata
+Map019.rxdata
+Map022.rxdata
