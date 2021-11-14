@@ -1,4 +1,4 @@
-# ![Poster](./%23%20Conception%20Data/Assets/Icon.ico?raw=true) RICSRB
+# RICSRB
 
 [![Plarform Windows](https://img.shields.io/badge/Windows-blue?logo=windows)](https://github.com/topics/windows)
 [![RPG Maker XP](https://img.shields.io/badge/RPG%20Maker-XP-blue?logo=ruby)](https://github.com/topics/rpgmakerxp)
