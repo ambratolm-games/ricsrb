@@ -5,7 +5,7 @@
 
 RICSRB is a RPG Game.
 
-💾 [**Download Demo Release** 🇫🇷](./#) <br />
+💾 [**Download Demo Release (Google Drive)** 🇫🇷](https://drive.google.com/file/d/1dducJVJ7mvMZtaJD90pWBMxpVrpWmZZa/view?usp=sharing) <br />
 📕 [**Download Manual** 🇫🇷](./%23%20Conception%20Data/Docs/RICSRB.pdf?raw=true)
 
 ![Poster](./%23%20Conception%20Data/Docs/pics/R-poster.jpg?raw=true)
